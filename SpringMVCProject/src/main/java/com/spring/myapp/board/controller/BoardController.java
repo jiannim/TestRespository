@@ -20,7 +20,7 @@ import com.spring.myapp.board.service.IBoardService;
 import com.spring.myapp.commons.paging.Criteria;
 import com.spring.myapp.commons.paging.PageCreator;
 import com.spring.myapp.commons.paging.SearchCriteria;
-
+// 주석을 추가했어요~~
 @Controller
 @RequestMapping("/board")
 public class BoardController {
